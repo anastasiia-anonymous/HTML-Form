@@ -1,4 +1,84 @@
-.form–wrapper{
-    background-image: url("img_lights.jpg");
-background-size: cover;}
-    
+
+.header {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      align-items: flex-start;
+      margin: 1cm;
+  }  
+.first-wrapper
+{
+ width: 50px;
+ height: 50px;
+ background-color: aquamarine;   
+}
+.first-first-wrapper
+{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(187, 106, 235);   
+}
+.first-first-first-wrapper
+{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(240, 248, 120);   
+}
+.content
+{
+    display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      align-items: center;   
+}
+.black
+{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(241, 126, 245);   
+}
+.white
+{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(245, 126, 136);   
+}
+.yellow
+{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(245, 180, 126); 
+}
+.green
+{
+    width: 50px;
+    height: 50px;
+    background-color: cadetblue;
+}
+.flex
+{
+    display: flex;
+    justify-content: center;
+    margin: 10%;
+    margin-left: 15%;
+    width: 75%;
+    background-color: rgb(54, 54, 53);
+}
+.one
+{
+    width: 9px;
+    height: 9px;
+    background-color: rgb(171, 247, 211); 
+}
+.two
+{
+    width: 9px;
+    height: 9px;
+    background-color: rgb(245, 164, 248); 
+}
+.three
+{
+    width: 9px;
+    height: 9px;
+    background-color: rgb(240, 151, 151); 
+}
